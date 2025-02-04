@@ -1,0 +1,8 @@
+packages:
+  - git: https://github.com/kk-shetty-hevo/dbt_quickbooks_source.git
+    revision: a1d76686a4e262556e2c8f2f324008224112e66a
+  - package: fivetran/fivetran_utils
+    version: 0.4.10
+  - package: dbt-labs/dbt_utils
+    version: 1.3.0
+sha1_hash: 4d9d30baf7a2ff3d372f285deaaec2544b52033d
